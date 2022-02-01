@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SenatorGabe
-- 👀 I’m interested in programming/ethical hacking
+- 👀 I’m interested in programming/SQL
 - 🌱 I’m currently learning python.
 - 📫 How to reach me - mikhailgabreil@me.com
 
